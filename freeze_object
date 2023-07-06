@@ -1,0 +1,3 @@
+$obj= new (final|readOnly) Class(); 
+or 
+freeze($obj);is_frozen($obj);
